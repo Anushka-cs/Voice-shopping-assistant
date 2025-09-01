@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Organic Apples",
+    "brand": "FarmFresh",
+    "price": 4,
+    "category": "Produce"
+  },
+  {
+    "name": "Toothpaste",
+    "brand": "SmileCare",
+    "price": 3,
+    "category": "Household"
+  },
+  {
+    "name": "Whole Milk 1L",
+    "brand": "DairyBest",
+    "price": 2,
+    "category": "Dairy"
+  },
+  {
+    "name": "Almond Milk 1L",
+    "brand": "NutriAlmond",
+    "price": 3,
+    "category": "Dairy"
+  },
+  {
+    "name": "Brown Bread",
+    "brand": "BakeHouse",
+    "price": 2,
+    "category": "Bakery"
+  },
+  {
+    "name": "Potato Chips",
+    "brand": "Crispy",
+    "price": 2,
+    "category": "Snacks"
+  },
+  {
+    "name": "Mangoes",
+    "brand": "Sunny",
+    "price": 5,
+    "category": "Produce"
+  }
+]
